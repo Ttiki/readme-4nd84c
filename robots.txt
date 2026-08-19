@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ttiki.github.io/readme-4nd84c/sitemap.xml
